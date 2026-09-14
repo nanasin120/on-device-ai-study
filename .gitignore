@@ -1,0 +1,13 @@
+# 파이썬 캐시 및 가상환경
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# OS 및 에디터 설정
+.DS_Store
+.vscode/
+.idea/
+
+# 환경변수 및 시크릿 키
+.env
