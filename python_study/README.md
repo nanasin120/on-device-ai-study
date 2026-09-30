@@ -11,5 +11,7 @@
 | :--- | :--- | :---: |
 | 2026-09-15 | 여러가지 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nanasin120/on-device-ai-study/blob/main/python_study/2026-09-15/2026_09_15.ipynb) |
 | 2026-09-17 | 여러가지 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nanasin120/on-device-ai-study/blob/main/python_study/2026-09-17/2026-09-17.ipynb)
+| 2026-10-01 | 텍스트 설명 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nanasin120/on-device-ai-study/blob/main/python_study/2026-10-01/day_3_text.ipynb)
+| 2026-10-01 | 클래스 코드 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nanasin120/on-device-ai-study/blob/main/python_study/2026-10-01/day_3_py.ipynb)
 
 ---
