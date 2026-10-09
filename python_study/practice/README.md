@@ -35,7 +35,7 @@
 
 ## 📂 Day별 세부 학습 내용
 
-<details open>
+<details close>
 <summary><b>📅 Day 1 — 기초 문법 & 데이터 전처리</b></summary>
 
 - **주요 내용**: 문자열 조작, 타입 캐스팅, 비트 마스크, 분기문
@@ -50,7 +50,7 @@
 
 <br>
 
-<details open>
+<details close>
 <summary><b>📅 Day 2 — 자료구조 심화 & 함수 활용</b></summary>
 
 - **주요 내용**: 컬렉션 자료형(Tuple, Set, Dict), 패킹/언패킹, 다중 반환 함수, 리스트 컴프리헨션
@@ -65,7 +65,7 @@
 
 <br>
 
-<details open>
+<details close>
 <summary><b>📅 Day 3 — 파일 I/O & 객체지향 프로그래밍 (OOP)</b></summary>
 
 - **주요 내용**: 파일 읽기/쓰기, 클래스 생성, 매직 메소드, 클래스 상속
@@ -80,7 +80,7 @@
 
 <br>
 
-<details open>
+<details close>
 <summary><b>📅 Day 4 — 데이터 분석 기초 (NumPy & Pandas)</b></summary>
 
 - **주요 내용**: 수치 연산 라이브러리(NumPy), 데이터 분석 프레임워크(Pandas)
@@ -95,7 +95,7 @@
 
 <br>
 
-<details open>
+<details close>
 <summary><b>🏆 Final Exam — 최종 종합 실기 평가</b></summary>
 
 - **프로젝트명**: IoT 스마트 팩토리 센서 데이터 분석기
